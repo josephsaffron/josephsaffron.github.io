@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+
+  
+    
+    
+      <link href="/css/fonts.css" rel="stylesheet" type="text/css">
+    
+  
+
+  
+  <title>a story of caution (or haxoring microsoft EFS)</title>
+
+  
+  
+  <link rel="stylesheet" href="/css/hugo-octopress.css">
+
+  
+  
+
+  
+    <link rel="stylesheet" href="/css/fork-awesome.min.css">
+  
+
+  
+  <link href="http://example.org/favicon.png" rel="icon">
+
+  
+  
+  
+
+  
+
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <meta name="author" content="Joseph Wong">
+
+  
+  <meta name="generator" content="Hugo 0.45" />
+
+  
+  
+
+  
+  
+
+</head>
+<body>
+
+
+<header role="banner"><hgroup>
+  
+  <h1><a href="http://example.org/">him.happyhippos</a></h1>
+    <h2></h2>
+</hgroup></header>
+
+
+<nav role="navigation">
+<fieldset class="mobile-nav">
+  
+  <select onchange="location = this.value;">
+    <option value="">Navigate…</option>
+      
+
+  </select>
+</fieldset>
+
+
+<ul class="main-navigation">
+  
+  
+</ul>
+
+
+<ul class="subscription">
+  
+
+</ul>
+
+
+</nav>
+
+
+<div id="main">
+  <div id="content">
+    <div>
+      <article class="hentry" role="article">
+
+        
+        
+
+<header>
+    <p class="meta">Dec 21, 2005
+         - 3 minute read 
+        
+
+        
+    </p>
+    <h1 class="entry-title">
+         a story of caution (or haxoring microsoft EFS) 
+    </h1>
+</header>
+
+
+        <div class="entry-content">
+          
+          
+          
+          
+          <p>A few days ago, my computer died. Not a huge loss, hard drive intact, and I still have a laptop. Or so I thought.</p>
+
+<p>Anyway, following standard procedure, I immediately hopped on the nearest computer hardware webpage and started drooling over all the latest and greatest hardware of our time. From dual core CPUs to the latest gpu that can render life, the universe, and everything in less than 42 micronanoinfinity seconds, I was all excited about getting my new computer. Then, scaling back by a few orders of magnitude, I decided on a more realistic computer. It was then that I decided to put my hard drive enclosure to good use, prepping my hard drive to be integrated into my brand spanking new system. My hard drive is divided into two partitions, one for data and one for program files/windows. I meticulously went through my primary partition, searching for anything that I needed to back up. After copying everything important over to my secondary partition, I quickformatted the primary partition. Once that was done, it was time to restore everything to the primary partition, so I started by transferring my &#8220;Documents&#8221; folder over. This folder contains my entire life history, essentially everything that I've ever written, sang, or photographed.</p>
+
+<p>transferring;..</p>
+
+<p>;Access Denied.</p>
+
+<p>What the?!</p>
+
+<p>try again;..</p>
+
+<p>;.Access Denied.</p>
+
+<p>hmm. This is not a good sign. Rewind to March 2005.</p>
+
+<p>I needed a way to password protect some of my important documents, so that they would be safe from prying eyes. Microsoft was touting its new Encrypted File System (EFS), and bundled it free with winXP. Sweet! After encrypting my documents folder though, I was never asked for a password. Hmm. That's strange. I guess this new EFS is a write off. After all, I can still open the folder without a password. Balked, I put this little 5 minute encounter out of my mind. Big mistake. Fast forward to present.</p>
+
+<p>So, that's why my access is denied. Well, no problem, I'll just decrypt that folder. All I need is my encryption keys;.</p>
+
+<p>;.which are on my primary partition. Which I just formatted. And a quick google search turned up <a href="http://www.windowsnetworking.com/kbase/WindowsTips/Windows2000/AdminTips/Security/Windows2000EncryptingFileSystemEFS.html">this site</a>, which basically says that if you haven't backed up your keys, you are screwed. Oh wait, maybe I can unformat my hard drive using the plethora of free open source tools! ;All none of them. I only managed to find restoration programs which range in price from $90 to $600 US. Which would only be useful in combination with EFS key extraction software. Which ranges from $120 to $600 as well. So currently, my only option is to fork over gobs of cash for two pieces of software that I have to pray will work together and help me recover my data. Not a promising option. Fortunately, my current favourite person in the world has a <em>much</em> better sense of being able to find google pages that are useful and informative. She pointed me to <a href="http://www.beginningtoseethelight.org/efsrecovery/index.php">this page</a> which gave me a little hope. I had to create a new installation of windows and change its machine code to match my old computer, with the same login and password as the original windows instance. I then needed to copy three specific directories over to this new replica computer. These directories contained the keys, and I hit upon <a href="http://diskinternals.com/">diskinternals NTFS recovery</a>, which recovers any files smaller than 64k. This was perfect, as even the largest key file is only 300 bytes. Armed with these files and a borrowed computer from IT, I managed to retrieve all my data.</p>
+
+<p>whew! So the moral of the story is, don't encrypt your files. And if you're going to encrypt your files, definitely do NOT use windows EFS. And if you do use EFS, make sure you BACK UP YOUR CERTIFICATES!</p>
+
+        </div>
+        
+
+<footer>
+  <p class="meta">
+    <span class="byline author vcard">Posted by <span class="fn">Joseph Wong</span></span>
+    
+    <time>Dec 21, 2005</time>
+    
+    </span>
+  </p>
+
+  
+  
+
+  
+
+  <p class="meta">
+    
+        <a class="basic-alignment left" href="http://example.org/posts/2005-11-19-165/" title="moving up">moving up</a>
+    
+
+    
+      <a class="basic-alignment right" href="http://example.org/posts/2006-02-13-167/" title="Ottawa">Ottawa</a>
+    
+  </p>
+  
+</footer>
+
+      </article>
+    </div>
+    
+
+<aside class="sidebar thirds">
+  <section class="first odd">
+
+    
+
+    <p>
+      
+    </p>
+  </section>
+
+
+
+  
+  <ul class="sidebar-nav">
+    <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+         
+      
+      
+      
+      
+      
+      
+      
+      
+
+    
+    
+    </li>
+  </ul>
+
+  
+
+  
+
+  
+  
+  
+</aside>
+
+  </div>
+</div>
+
+<footer role="contentinfo">
+  <p>Copyright &copy; 2018 Joseph Wong - <a href="http://example.org/license/">License</a> -
+  <span class="credit">Powered by <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/">Hugo-Octopress</a> theme.
+</p>
+
+</footer>
+
+
+
+
+
+
+</body>
+</html>
+
