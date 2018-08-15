@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/blog/2018-08-02-gen-con-2018/</loc>
+    <lastmod>2018-08-02T00:02:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2016-02-16-winter-experiences/</loc>
+    <lastmod>2016-02-16T00:02:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2016-01-20-best-places-weve-found-to-eat-in-kwc/</loc>
+    <lastmod>2016-01-20T17:06:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-12-30-unbiased/</loc>
+    <lastmod>2013-12-30T10:39:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-10-17-grammar-wars/</loc>
+    <lastmod>2013-10-17T13:06:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-08-13-our-little-bean-got-her-first-piece-of-mail-today/</loc>
+    <lastmod>2013-08-13T23:12:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-07-29-happy-one-week-birthday-little-bean/</loc>
+    <lastmod>2013-07-29T13:33:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-07-27-timeline-part-2/</loc>
+    <lastmod>2013-07-27T18:24:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-07-25-timeline/</loc>
+    <lastmod>2013-07-25T03:04:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-04-19-stolen-food-and-other-things/</loc>
+    <lastmod>2013-04-19T12:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-03-15-stolen-lunch/</loc>
+    <lastmod>2013-03-15T13:10:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-01-15-board-games/</loc>
+    <lastmod>2013-01-15T05:16:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2013-01-09-skyfall/</loc>
+    <lastmod>2013-01-09T04:06:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/agricola/</loc>
+    <lastmod>2013-01-15T05:16:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/blog/</loc>
+    <lastmod>2016-02-16T00:02:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/board-games/</loc>
+    <lastmod>2013-01-15T05:16:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2016-02-16T00:02:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/food/</loc>
+    <lastmod>2016-01-20T17:06:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/parenting/</loc>
+    <lastmod>2016-02-16T00:02:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2018-08-02T00:02:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2013-01-15T05:16:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-08-02T00:02:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
