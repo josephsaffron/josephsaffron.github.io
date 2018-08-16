@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on him.happyhippos</title>
-    <link>http://example.org/categories/food/</link>
+    <link>https://josephsaffron.github.io//categories/food/</link>
     <description>Recent content in Food on him.happyhippos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jan 2016 17:06:30 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/food/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://josephsaffron.github.io//categories/food/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Best places (we&#39;ve found) to eat in KWC</title>
-      <link>http://example.org/blog/2016-01-20-best-places-weve-found-to-eat-in-kwc/</link>
+      <link>https://josephsaffron.github.io//blog/2016-01-20-best-places-weve-found-to-eat-in-kwc/</link>
       <pubDate>Wed, 20 Jan 2016 17:06:30 +0000</pubDate>
       
-      <guid>http://example.org/blog/2016-01-20-best-places-weve-found-to-eat-in-kwc/</guid>
+      <guid>https://josephsaffron.github.io//blog/2016-01-20-best-places-weve-found-to-eat-in-kwc/</guid>
       <description>Comfort food
 Crazy Canuck
 Crossroads Family Restaurant
