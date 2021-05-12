@@ -1,0 +1,3 @@
+[submodule "Hugo-Octopress"]
+	path = Hugo-Octopress
+	url = https://github.com/parsiya/Hugo-Octopress
