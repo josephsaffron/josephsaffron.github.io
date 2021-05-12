@@ -1,0 +1,15 @@
+baseURL = "https://josephsaffron.github.io/"
+languageCode = "en-us"
+title = "him.happyhippos"
+theme = "hugo-octopress"
+
+[permalinks]
+    post = "/blog/:year-:month-:day-:title/"
+
+[params]
+    author = "Joseph Wong"
+    github = "https://github.com/josephsaffron/"
+    twitter = "https://twitter.com/yellowedjoe"
+    sidebarHeader = "About Me"
+    sidebarText = "Father of two, software developer, avid reader"
+    sidebarRecentLimit = 6
