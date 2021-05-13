@@ -1,1 +1,0 @@
-Copy-Item public\blog ..\..\josephsaffron.github.io\ -recurse -Force

@@ -13,3 +13,8 @@ theme = "hugo-octopress"
     sidebarHeader = "About Me"
     sidebarText = "Father of two, software developer, avid reader"
     sidebarRecentLimit = 6
+
+[module]
+
+  [[module.imports]]
+    path = "github.com/parsiya/Hugo-Octopress"
