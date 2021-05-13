@@ -21,12 +21,12 @@ jobs:
           # extended: true
       - name: ls
         run: ls
+
       - name: Build
         run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: josephsaffron/josephsaffron.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
