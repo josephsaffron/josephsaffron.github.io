@@ -9,4 +9,4 @@ permalink: /?p=212
 categories:
   - Blog
 ---
-This is getting ridiculous.  A few weeks ago, I went on vacation for 4 days to Vancouver, and I came back to a chair that had a broken armrest and covered in dog hair.  Then, last week, my craked green plate disappeared from my desk.  Now, today, the last straw!  My loving wife made me some delicious lemon squares based on crushed macadamia nut crust, and today I came in to eat it; and it was GONE!  What is happening here?!
+This is getting ridiculous.  A few weeks ago, I went on vacation for 4 days to Vancouver, and I came back to a chair that had a broken armrest and covered in dog hair.  Then, last week, my cracked green plate disappeared from my desk.  Now, today, the last straw!  My loving wife made me some delicious lemon squares based on crushed macadamia nut crust, and today I came in to eat it; and it was GONE!  What is happening here?!
