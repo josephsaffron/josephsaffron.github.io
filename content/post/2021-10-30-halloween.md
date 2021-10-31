@@ -1,6 +1,6 @@
 ---
 id: 271
-title: "Blog now improved!  But also completely the same!"
+title: "All Hallows"
 date: 2021-10-30
 author: him.happyhippos
 layout: post
