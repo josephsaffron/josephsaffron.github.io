@@ -11,10 +11,10 @@ categories:
 ---
 Beautiful house for rent!
 Some highlights:
-Two and a half storey, four bedroom home
-Over 2300 sq feet of living and storage space
-Partially finished basement
-Cold room
+* Two and a half storey, four bedroom home
+* Over 2300 sq feet of living and storage space
+* Partially finished basement
+* Cold room
 
 The open-concept carpet-free main floor features a large kitchen with a centre island and raised breakfast bar. Walk out from the spacious family room with hardwood flooring to a newly built deck (2021) and fenced yard that backs into the woodlands. Many other newer updates include a new concrete driveway (2020), roof (2019), furnace (2018) and AC (2017).  Water heater (2019) is rented, water softener owned.
 
