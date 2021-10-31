@@ -1,6 +1,6 @@
 ---
 id: 270
-title: Skyfall
+title: Rental
 date: 2021-10-30T04:06:19+00:00
 author: him.happyhippos
 layout: post
@@ -27,19 +27,20 @@ medical offices.
 
 It is a move-in ready, detached, well-maintained, 2.5-storey, 4 bedroom home, with over 2000 square feet of living and storage space, and a partially finished basement and cold room. 
 
-<img src="/rental/front.png">{style="float"}
-<img src="/rental/living1.jpg">{style="float"}
-<img src="/rental/living2.jpg">{style="float"}
-<img src="/rental/living3.jpg">{style="float"}
-<img src="/rental/dining.jpg">{style="float"}
-<img src="/rental/master.jpg">{style="float"}
-<img src="/rental/loft.jpg">{style="float"}
-<img src="/rental/bedroom1.jpg">{style="float"}
-<img src="/rental/bedroom2.jpg">{style="float"}
-<img src="/rental/bedroom3.jpg">{style="float"}
-<img src="/rental/bathroom_main.jpg">{style="float"}
-<img src="/rental/basement_bath.jpg">{style="float"}
-<img src="/rental/basement.jpg">{style="float"}
-<img src="/rental/basement2.jpg">{style="float"}
+![Front](/rental/front.png){:style="float"}
+![Living Room](/rental/living1.jpg){:style="float"}
+![Living Room](/rental/living2.jpg){:style="float"}
+![Living Room](/rental/living3.jpg){:style="float"}
+![Dining Room](/rental/dining.jpg){:style="float"}
+![Main floor bathroom](/rental/bathroom_main.jpg){:style="float"}
+![Master Bedroom](/rental/master.jpg){:style="float"}
+![Loft](/rental/loft.jpg){:style="float"}
+![Bedroom 2](/rental/bedroom1.jpg){:style="float"}
+![Bedroom 3](/rental/bedroom2.jpg){:style="float"}
+![Bedroom 4](/rental/bedroom3.jpg){:style="float"}
+![Second floor bathroom](/rental/bathroom.jpg){:style="float"}
+![Basement bathroom](/rental/basement_bath.jpg){:style="float"}
+![Basement](/rental/basement.jpg){:style="float"}
+![Basement](/rental/basement2.jpg){:style="float"}
 
 Asking $2800 per month, plus utilities, preferably a one year contract, moving to month-to-month lease afterwards. A credit check, guarantor, and references and proof of income may also be required.
