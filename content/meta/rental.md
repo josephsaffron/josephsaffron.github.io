@@ -23,24 +23,22 @@ The upper floor includes a large master bedroom with vaulted ceilings and 3 othe
 Located in a sought-after neighbourhood of Williamsburg in Kitchener with a variety of amenities and local conveniences nearby. Just off Highway 7/8 and walking distance to bus stops, neighbourhood trails, parks, grocery, post office, restaurants and cafes, groceries, and
 medical offices.
 
-
-
 It is a move-in ready, detached, well-maintained, 2.5-storey, 4 bedroom home, with over 2000 square feet of living and storage space, and a partially finished basement and cold room. 
 
-![Front](/rental/front.png){:style="float"}
-![Living Room](/rental/living1.jpg){:style="float"}
-![Living Room](/rental/living2.jpg){:style="float"}
-![Living Room](/rental/living3.jpg){:style="float"}
-![Dining Room](/rental/dining.jpg){:style="float"}
-![Main floor bathroom](/rental/bathroom_main.jpg){:style="float"}
-![Master Bedroom](/rental/master.jpg){:style="float"}
-![Loft](/rental/loft.jpg){:style="float"}
-![Bedroom 2](/rental/bedroom1.jpg){:style="float"}
-![Bedroom 3](/rental/bedroom2.jpg){:style="float"}
-![Bedroom 4](/rental/bedroom3.jpg){:style="float"}
-![Second floor bathroom](/rental/bathroom.jpg){:style="float"}
-![Basement bathroom](/rental/basement_bath.jpg){:style="float"}
-![Basement](/rental/basement.jpg){:style="float"}
-![Basement](/rental/basement2.jpg){:style="float"}
+![Front](/rental/front.png)
+![Living Room](/rental/living1.jpg)
+![Living Room](/rental/living2.jpg)
+![Living Room](/rental/living3.jpg)
+![Dining Room](/rental/dining.jpg)
+![Main floor bathroom](/rental/bathroom_main.jpg)
+![Master Bedroom](/rental/master.jpg)
+![Loft](/rental/loft.jpg)
+![Bedroom 2](/rental/bedroom1.jpg)
+![Bedroom 3](/rental/bedroom2.jpg)
+![Bedroom 4](/rental/bedroom3.jpg)
+![Second floor bathroom](/rental/bathroom.jpg)
+![Basement bathroom](/rental/basement_bath.jpg)
+![Basement](/rental/basement.jpg)
+![Basement](/rental/basement2.jpg)
 
 Asking $2800 per month, plus utilities, preferably a one year contract, moving to month-to-month lease afterwards. A credit check, guarantor, and references and proof of income may also be required.
