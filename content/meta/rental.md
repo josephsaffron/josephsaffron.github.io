@@ -26,7 +26,6 @@ medical offices.
 It is a move-in ready, detached, well-maintained, 2.5-storey, 4 bedroom home, with over 2000 square feet of living and storage space, and a partially finished basement and cold room. 
 
 ![Front](/rental/front.png)
-![Living Room](/rental/living1.jpg)
 ![Living Room](/rental/living2.jpg)
 ![Living Room](/rental/living3.jpg)
 ![Dining Room](/rental/dining.jpg)
