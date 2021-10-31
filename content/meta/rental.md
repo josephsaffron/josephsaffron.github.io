@@ -41,4 +41,4 @@ It is a move-in ready, detached, well-maintained, 2.5-storey, 4 bedroom home, wi
 ![Basement](/rental/basement.jpg)
 ![Basement](/rental/basement2.jpg)
 
-Asking $2800 per month, plus utilities, preferably a one year contract, moving to month-to-month lease afterwards. A credit check, guarantor, and references and proof of income may also be required.
+Asking $2800 per month, plus utilities, preferably a one year contract, moving to month-to-month lease afterwards. A credit check, guarantor, references, rental history, and income or employment verification may also be required.
