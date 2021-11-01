@@ -12,4 +12,4 @@ theme = "Hugo-Octopress"
     twitter = "https://twitter.com/yellowedjoe"
     sidebarHeader = "About Me"
     sidebarText = "Father of two, software developer, avid reader"
-    sidebarRecentLimit = 6
+    sidebarRecentLimit = 3
