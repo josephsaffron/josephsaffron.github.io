@@ -39,5 +39,8 @@ It is a move-in ready, detached, well-maintained, 2.5-storey, 4 bedroom home, wi
 ![Basement bathroom](/rental/basement_bath.jpg)
 ![Basement](/rental/basement.jpg)
 ![Basement](/rental/basement2.jpg)
-
+![Backyard](/rental/backyard.jpg)
+![Deck](/rental/deck.jpg)
 Asking $2800 per month, plus utilities, preferably a one year contract, moving to month-to-month lease afterwards. A credit check, guarantor, references, rental history, and income or employment verification may also be required. Non smoking. Immediate occupancy availability.
+
+If interested, please fill out this form for application, and indicate if you'd like to see the house and when!
