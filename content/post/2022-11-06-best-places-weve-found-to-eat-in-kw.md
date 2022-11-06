@@ -72,6 +72,9 @@ Noon Moment - Great fruit smoothies
 Yifang - best tasting tea in bubble tea
 
 **Sadly Closed**
-SOS BBQ - amazing fish and chips!
-Fork And Cork
-Wooden Boat
+
+~~SOS BBQ - amazing fish and chips!~~
+
+~~Fork And Cork~~
+
+~~Wooden Boat~~
