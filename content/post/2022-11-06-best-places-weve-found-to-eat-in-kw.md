@@ -1,7 +1,7 @@
 ---
 id: 254
-title: "[2022] Best places (we\'ve found) to eat in KWC"
-date: 2022-11-06T17:06:30+00:00
+title: "[2023] Best places to eat in KWC"
+date: 2023-08-01T17:06:30+00:00
 author: him.happyhippos
 layout: post
 guid: http://him.happyhippos.ca/?p=254
@@ -24,6 +24,8 @@ Malt and Barley - excellent pub style food
 Muya - authentic ethiopian food
 
 Arabesque - best pitas in the world
+
+Antalya - great shawarma sandwiches
 
 Korner Kitchen - big big portions
 
@@ -62,8 +64,6 @@ Borealis
 Langdon Hall
 
 Proof Kitchen + Lounge
-
-Mark's Carribean Kitchen
 
 **Dessert and Drinks**
   
