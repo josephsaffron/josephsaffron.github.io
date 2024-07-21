@@ -29,8 +29,6 @@ Arabella Beer Park - really reasonable and tasty burgers, with an excellent sele
 **Asian**
   
 Kinkaku/Jinzakaya - the best and most expensive AYCE sushi in town, on par with mid-tier Toronto
-  
-Bogda - good if you like spicy
 
 Yun Shang for some classic [crossing-bridge Rice Noodles](https://www.visityunnanchina.com/experiences/food/cross-bridge-rice-noodles) 
 
