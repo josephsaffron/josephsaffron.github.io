@@ -1,11 +1,11 @@
 ---
-id: 254
-title: "[2023] Best places to eat in KWC"
-date: 2023-08-01T17:06:30+00:00
+id: 267
+title: "[2024] Best places to eat in KWC"
+date: 2024-07-22T17:06:30+00:00
 author: him.happyhippos
 layout: post
 guid: http://him.happyhippos.ca/?p=254
-permalink: /?p=254
+permalink: /?p=267
 xyz_fbap:
   - "1"
 categories:
