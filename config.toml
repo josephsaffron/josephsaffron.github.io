@@ -15,5 +15,15 @@ theme = "Mainroad"
     copyright = "Happyhippos"
     authorbox = true
 
+[Params.sidebar]
+    home = "right" # Configure layout for home page
+
 [Params.widgets.social]
     github = "josephsaffron"
+
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
