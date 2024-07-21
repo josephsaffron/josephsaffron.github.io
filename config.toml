@@ -1,15 +1,19 @@
 baseURL = "https://josephsaffron.github.io/"
 languageCode = "en-ca"
 title = "him.happyhippos"
-theme = "hugo-PaperMod"
+paginate = "5"
+theme = "Mainroad"
+
+[Author]
+    name = "Joseph Wong"
+    bio = "Father of two, software developer, avid reader"
 
 [permalinks]
     post = "/blog/:year-:month-:day-:title/"
 
-[params]
-    author = "Joseph Wong"
-    github = "https://github.com/josephsaffron/"
-    twitter = "https://twitter.com/yellowedjoe"
-    sidebarHeader = "About Me"
-    sidebarText = "Father of two, software developer, avid reader"
-    sidebarRecentLimit = 3
+[Params]
+    copyright = "Happyhippos"
+    authorbox = true
+
+[Params.widgets.social]
+    github = "josephsaffron"
