@@ -1,7 +1,7 @@
 baseURL = "https://josephsaffron.github.io/"
 languageCode = "en-us"
 title = "him.happyhippos"
-theme = "henry-hugo"
+theme = "hugo-PaperMod"
 
 [permalinks]
     post = "/blog/:year-:month-:day-:title/"

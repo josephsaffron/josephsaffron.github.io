@@ -1,3 +1,6 @@
 [submodule "themes/henry-hugo"]
 	path = themes/henry-hugo
 	url = https://github.com/kaushikgopal/henry-hugo
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
