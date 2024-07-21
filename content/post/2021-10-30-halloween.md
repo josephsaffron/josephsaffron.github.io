@@ -1,13 +1,9 @@
 ---
-id: 271
+id: 17
 title: "All Hallows"
 date: 2021-10-30
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=271
-permalink: /?p=271
-xyz_fbap:
-  - "1"
 categories:
   - Life
 ---

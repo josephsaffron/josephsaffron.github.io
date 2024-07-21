@@ -1,11 +1,9 @@
 ---
-id: 210
+id: 3
 title: Stolen Lunch
 date: 2013-03-15T13:10:15+00:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=210
-permalink: /?p=210
 categories:
   - Blog
 ---

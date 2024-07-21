@@ -1,11 +1,9 @@
 ---
-id: 227
+id: 7
 title: Happy One Week Birthday, Little bean!
 date: 2013-07-29T13:33:29+00:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=227
-permalink: /?p=227
 categories:
   - Blog
 ---

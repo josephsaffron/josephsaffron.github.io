@@ -1,13 +1,9 @@
 ---
-id: 269
+id: 16
 title: "Blog now improved!  But also completely the same!"
 date: 2021-05-12T17:06:30-04:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=269
-permalink: /?p=269
-xyz_fbap:
-  - "1"
 categories:
   - Tech
 ---

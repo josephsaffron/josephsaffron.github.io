@@ -1,11 +1,9 @@
 ---
-id: 197
+id: 2
 title: Board games
 date: 2013-01-15T05:16:31+00:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=197
-permalink: /?p=197
 categories:
   - Blog
 tags:

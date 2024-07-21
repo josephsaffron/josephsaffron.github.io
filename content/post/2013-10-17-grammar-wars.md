@@ -1,11 +1,9 @@
 ---
-id: 242
+id: 9
 title: Grammar wars
 date: 2013-10-17T13:06:16+00:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=242
-permalink: /?p=242
 categories:
   - Blog
 ---

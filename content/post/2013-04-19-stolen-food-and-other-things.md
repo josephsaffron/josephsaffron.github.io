@@ -1,11 +1,9 @@
 ---
-id: 212
+id: 4
 title: 'Stolen food; and other things'
 date: 2013-04-19T12:42:21+00:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=212
-permalink: /?p=212
 categories:
   - Blog
 ---

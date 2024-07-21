@@ -1,13 +1,9 @@
 ---
-id: 265
+id: 11
 title: Winter experiences
 date: 2016-02-16T00:02:26+00:00
 author: him.happyhippos
 layout: post
-guid: http://him.happyhippos.ca/?p=265
-permalink: /?p=265
-xyz_fbap:
-  - "1"
 categories:
   - Blog
 tags:
