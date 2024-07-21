@@ -1,7 +1,7 @@
 ---
 id: 267
 title: "[2024] Best places to eat in KWC"
-date: 2024-07-22T17:06:30+00:00
+date: 2024-07-22T17:20:30+00:00
 author: him.happyhippos
 layout: post
 guid: http://him.happyhippos.ca/?p=267
