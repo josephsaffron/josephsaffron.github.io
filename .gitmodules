@@ -1,3 +1,7 @@
 [submodule "themes/Hugo-Octopress"]
 	path = themes/Hugo-Octopress
 	url = https://github.com/parsiya/Hugo-Octopress
+
+[submodule "themes/henry-hugo"]
+	path = themes/hentry-hugo
+	url = https://github.com/kaushikgopal/henry-hugo
