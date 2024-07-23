@@ -15,8 +15,14 @@ theme = "Mainroad"
     copyright = "Happyhippos"
     authorbox = true
 
+[Params.logo]
+  image = "logo.jpg" # Logo image. Path relative to "static"
+  title = "him.happyhippos" # Logo title, otherwise will use site title
+  subtitle = "his perspective" # Logo subtitle
+
 [Params.sidebar]
     home = "right" # Configure layout for home page
+    widgets = ["recent", "categories", "social"]
 
 [Params.widgets.social]
     github = "josephsaffron"
@@ -26,4 +32,4 @@ theme = "Mainroad"
   url = "https://google.com/search"
   [Params.widgets.search.input]
     name = "sitesearch"
-    pre = ""
+    pre = "https://him.happyhippos.ca"
