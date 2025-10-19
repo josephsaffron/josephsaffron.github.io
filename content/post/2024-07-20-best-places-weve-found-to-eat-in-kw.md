@@ -54,7 +54,3 @@ The Foundry Tavern - also has open air concerts in the summer!
 Noon Moment - Great fruit smoothies
 
 Yifang - best tasting tea in bubble tea
-
-Hazukido - delicious croissants, and you get 10% off with a Presto card for some reason
-
-Lady Glaze Donuts
