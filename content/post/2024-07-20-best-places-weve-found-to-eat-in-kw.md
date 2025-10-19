@@ -29,7 +29,7 @@ Kinkaku/Jinzakaya - the best and most expensive AYCE sushi in town, on par with 
 
 Yun Shang for some classic [crossing-bridge Rice Noodles](https://www.visityunnanchina.com/experiences/food/cross-bridge-rice-noodles) 
 
-Kinton Ramen
+Kinton Ramen - our family's go-to comfort food
 
 [Rosel's](https://rosels.ca/)
 
@@ -39,7 +39,7 @@ Pho Sunrise for Williamsburg area
 
 Pho Vietnam K&W for the most authentic Pho experience
 
-Taste of Seoul
+Daldongnae korean bbq - not ayce, but it is more than you can eat! amazing value!
 
 
 **Fine(ish) dining**
