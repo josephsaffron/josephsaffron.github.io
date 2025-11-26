@@ -1,6 +1,6 @@
 ---
 id: 15
-title: "Best places (we\'ve found) to eat in KWC - Takeout Edition!"
+title: "Best places to eat in KWC - Takeout Edition!"
 date: 2021-04-22T17:06:30+00:00
 author: him.happyhippos
 layout: post
