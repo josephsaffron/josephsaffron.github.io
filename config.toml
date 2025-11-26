@@ -1,7 +1,7 @@
 baseURL = "https://josephsaffron.github.io/"
 languageCode = "en-ca"
 title = "him.happyhippos"
-paginate = "5"
+pagination.pagerSize = "5"
 theme = "Mainroad"
 
 [Author]
