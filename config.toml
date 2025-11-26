@@ -2,7 +2,7 @@ baseURL = "https://josephsaffron.github.io/"
 languageCode = "en-ca"
 title = "him.happyhippos"
 pagination.pagerSize = "5"
-theme = "Mainroad"
+theme = "hyde"
 
 [Author]
     name = "Joseph Wong"

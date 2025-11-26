@@ -1,9 +1,6 @@
-[submodule "themes/henry-hugo"]
-	path = themes/henry-hugo
-	url = https://github.com/kaushikgopal/henry-hugo
-[submodule "themes/hugo-PaperMod"]
-	path = themes/hugo-PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod
 [submodule "themes/Mainroad"]
 	path = themes/Mainroad
 	url = https://github.com/Vimux/Mainroad
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde
