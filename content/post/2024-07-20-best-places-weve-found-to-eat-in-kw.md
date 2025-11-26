@@ -12,9 +12,9 @@ categories:
   
 Lab Street Eats
 
-Mark's Carribbean
+Frannie's - great kids meals and pie
 
-Malt and Barley - excellent pub style food (be sure to check out the two other sister restaurants, Scran & Dram and  Eatery)
+Malt and Barley - excellent pub style food (be sure to check out the two other sister restaurants, Scran & Dram and Eatery)
 
 1001 Nights and Antalya - great shawarma sandwiches
 
@@ -31,7 +31,7 @@ Yun Shang for some classic [crossing-bridge Rice Noodles](https://www.visityunna
 
 Kinton Ramen - our family's go-to comfort food
 
-[Rosel's](https://rosels.ca/)
+[Rosel's](https://rosels.ca/) - Filipino food
 
 Bao - definitely try the five spice pork belly
 
@@ -39,7 +39,11 @@ Pho Sunrise for Williamsburg area
 
 Pho Vietnam K&W for the most authentic Pho experience
 
+Pho Tran if you moved to where we live now
+
 Daldongnae korean bbq - not ayce, but it is more than you can eat! amazing value!
+
+Champa Kitchen for some Laoitian food
 
 
 **Fine(ish) dining**
