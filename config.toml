@@ -1,6 +1,6 @@
 baseURL = "https://josephsaffron.github.io/"
 languageCode = "en-ca"
-title = "him.happyhippos"
+title = "him"
 pagination.pagerSize = "5"
 theme = "hyde"
 
@@ -14,6 +14,9 @@ theme = "hyde"
 [Params]
     copyright = "Happyhippos"
     authorbox = true
+    themeColor = "theme-base-08"
+    description = "Father of two, software developer, avid reader"
+
 
 [Params.logo]
   image = "logo.jpg" # Logo image. Path relative to "static"

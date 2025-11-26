@@ -1,6 +1,6 @@
 ---
 id: 18
-title: "[2024] Best places to eat in KWC"
+title: "[2025] Best places to eat in KWC"
 date: 2024-07-20
 author: him.happyhippos
 layout: post
