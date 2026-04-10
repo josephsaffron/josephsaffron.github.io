@@ -59,6 +59,6 @@ Near major bus route **201**, offering easy access to universities and colleges 
 ---
 
 ## Pictures
-![Kitchen](/northmanor/kitchen.png)
+![Kitchen](/northmanor/kitchen.jpg)
 ![Living Room](/northmanor/livingroom.jpg)
 
