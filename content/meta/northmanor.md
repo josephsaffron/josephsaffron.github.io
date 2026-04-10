@@ -50,7 +50,7 @@ Near major bus route **201**, offering easy access to universities and colleges 
 
 - **$2650/month** plus utilities and water heater rental  
 - **First and last month’s rent required** upon acceptance  
-- [Ontario Standard Form of Lease|https://forms.mgcs.gov.on.ca/en/dataset/047-2229] to be used  
+- [Ontario Standard Form of Lease](https://forms.mgcs.gov.on.ca/en/dataset/047-2229) to be used  
 - **Tenant insurance required** for the duration of the lease  
 - **Credit check, guarantor, income/employment verification, rental history, and references** are required  
 - **Non‑smoking property**
@@ -58,6 +58,7 @@ Near major bus route **201**, offering easy access to universities and colleges 
 
 ---
 
-## Next Steps
+## Pictures
+![Kitchen](/northmanor/kitchen.png)
+![Living Room](/northmanor/livingroom.jpg)
 
-*“Fill out this form to apply and indicate a time for a private viewing or for additional details.”*
