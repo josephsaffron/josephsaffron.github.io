@@ -8,6 +8,8 @@ guid: http://him.happyhippos.ca/?p=271
 permalink: /?p=271
 categories:
   - Meta
+_build:
+  list: never
 ---
 
 # Spacious 3‑Bedroom Detached Home with Garage and Yard Space
