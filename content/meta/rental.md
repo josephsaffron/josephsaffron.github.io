@@ -8,6 +8,8 @@ guid: http://him.happyhippos.ca/?p=270
 permalink: /?p=270
 categories:
   - Meta
+build:
+  list: never
 ---
 Beautiful house for rent!
 Some highlights:
