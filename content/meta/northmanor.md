@@ -26,7 +26,7 @@ Move‑in ready and available immediately for occupancy.
 - **Private backyard and deck** — perfect for outdoor enjoyment and gardening  
 - **Unfinished basement** with laundry facilities and ample storage space  
 - **Single‑car garage** plus driveway parking  
-- 2026 updates: **new vents**, **fresh paint**, **new windows** and entrance door, **new second‑level flooring and vanity fixtures**  
+- 2026 updates: **new vents**, **fresh paint**, **new windows** and entrance door, **new carpet-free second‑level flooring and vanity fixtures**  
 
 ---
 
@@ -59,6 +59,13 @@ Near major bus route **201**, offering easy access to universities and colleges 
 ---
 
 ## Pictures
+![Front](/northmanor/front.png)
 ![Kitchen](/northmanor/kitchen.jpg)
 ![Living Room](/northmanor/livingroom.jpg)
+![Hallway](/northmanor/hallway.jpg)
+![Main Bedroom](/northmanor/main-bedroom.jpg)
+![Main Ensuite](/northmanor/main-ensuite.jpg)
+![Bedroom 1](/northmanor/bedroom1.jpg)
+![Bedroom 2](/northmanor/bedroom2.jpg)
+![Bathroom](/northmanor/bathroom.jpg)
 
